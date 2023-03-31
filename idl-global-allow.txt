@@ -458,6 +458,11 @@ Allow from 2a06:98c0::/29
 18.228.107.195
 # ezoic END
 
+# DropShip Popular Books - START
+75.101.130.189
+34.197.18.122
+3.92.4.7
+# DropShip Popular Books - END
 
 104.205.210.8 # Ryland - Thu Feb 17 13:30:14 2022
 117.212.228.226 # Ryland - Thu Feb 17 13:30:14 2022
