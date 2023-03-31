@@ -7,6 +7,12 @@
 173.35.0.0/16 # Nency
 76.71.0.0/16 # Marina
 
+142.44.218.96 # Mars Server IP
+167.114.100.34 # Mars Server IP
+142.44.218.207 # Mars Server IP
+142.4.223.194 # Mars Server IP / IDLWEBHOST.COM
+72.139.109.134 # IDL Office IP
+
 # Cloudflare IPs
 Allow from 103.21.244.0/22
 Allow from 103.22.200.0/22
