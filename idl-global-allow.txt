@@ -487,7 +487,6 @@ Allow from 2a06:98c0::/29
 174.203.6.114 #  Manually Westgard
 69.129.195.63 #  Manually Westgard
 82.69.0.0/16 # Manually allow lescltd.com whm 2087 access 82.69.19.51 , 82.69.16.171
-198.52.0.0/16 #  Carrytel IP Range
 75.101.130.189 # Popular Books
 34.197.18.122 # Popular Books
 3.92.4.7 # Popular Books
@@ -518,7 +517,11 @@ Allow from 2a06:98c0::/29
 169.55.128.57 #random cloudflare IP for hypertension
 #23.111.175.214 # Cloudlinux Support IP
 #2604:4500:6:203f::6 # Cloudlinux Support IP
-
+74.117.242.106 # stefan.ramlow@wildmountain.com Block Removal
+74.117.241.98 # Due to failed email login: lisa@wildmounatin.com
+74.117.241.99 # Due to failed email login: lisa@wildmounatin.com
+50.214.4.0/24 # Sunlight/ Due to multiple failed FTP logins
+108.26.213.84 # Mike / Mirus
 
 
 
