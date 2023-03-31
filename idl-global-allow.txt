@@ -533,7 +533,7 @@ Allow from 2a06:98c0::/29
 74.117.241.99 # Due to failed email login: lisa@wildmounatin.com
 50.214.4.0/24 # Sunlight/ Due to multiple failed FTP logins
 108.26.213.84 # Mike / Mirus
-
+98.242.117.81 # Newsome tax
 
 
 72.38.78.110 # Whitelist seguinpubliclibraries.ca olsn
