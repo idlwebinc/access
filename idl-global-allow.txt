@@ -544,3 +544,5 @@ Allow from 2a06:98c0::/29
 173.14.75.185 # PMHI / Tony
 
 216.147.127.180 # Fred / BFA
+
+98.253.217.7 # Chris - Everblast
