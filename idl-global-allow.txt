@@ -537,7 +537,6 @@ Allow from 2a06:98c0::/29
 108.26.213.84 # Mike / Mirus
 
 
-
 72.38.78.110 # Whitelist seguinpubliclibraries.ca olsn
 216.223.104.164 # Jeff -  olsn
 63.250.104.61 # Brandi Nolan - olsn
@@ -546,5 +545,6 @@ Allow from 2a06:98c0::/29
 
 216.147.127.180 # Fred / BFA
 199.66.14.158 # Denise / BFA
+98.97.12.154 # Dean / BFA
 
 98.253.217.7 # Chris - Everblast
