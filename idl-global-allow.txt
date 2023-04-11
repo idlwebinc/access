@@ -548,5 +548,6 @@ Allow from 2a06:98c0::/29
 216.147.0.0/16 # Fred / BFA 11 Mar 2023
 199.66.14.158 # Denise / BFA
 98.97.12.154 # Dean / BFA
+98.97.0.0/16 # Dean / BFA 11 Mar 2023
 
 98.253.217.7 # Chris - Everblast
