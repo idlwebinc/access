@@ -17,6 +17,8 @@
 142.4.223.194 # Mars Server IP / IDLWEBHOST.COM
 72.139.109.134 # IDL Office IP
 
+66.70.255.209 #NEO / Adbrane
+
 # Cloudflare IPs
 Allow from 103.21.244.0/22
 Allow from 103.22.200.0/22
