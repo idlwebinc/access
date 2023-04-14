@@ -542,6 +542,11 @@ Allow from 2a06:98c0::/29
 108.26.213.84 # Mike / Mirus
 
 
+#NXT
+69.135.41.170 #Scioto Fax Machine
+
+
+
 72.38.78.110 # Whitelist seguinpubliclibraries.ca olsn
 216.223.104.164 # Jeff -  olsn
 63.250.104.61 # Brandi Nolan - olsn
