@@ -563,3 +563,7 @@ Allow from 2a06:98c0::/29
 98.97.0.0/16 # Dean / BFA 11 Mar 2023
 
 98.253.217.7 # Chris - Everblast
+
+#Telnet
+76.65.34.230
+76.65.0.0/16
