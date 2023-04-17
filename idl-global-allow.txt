@@ -15,7 +15,9 @@
 167.114.100.34 # Mars Server IP
 142.44.218.207 # Mars Server IP
 142.4.223.194 # Mars Server IP / IDLWEBHOST.COM
-72.139.109.134 # IDL Office IP
+54.39.106.130 # pb.server.idlwebhost.com
+51.79.49.93 # hostaccess.bfa.net
+192.99.254.178 # hostaccess.bfa.net
 
 66.70.255.209 #NEO / Adbrane
 148.113.152.17 #NEO / Adbrane
