@@ -567,3 +567,6 @@ Allow from 2a06:98c0::/29
 #Telnet
 76.65.34.230
 76.65.0.0/16
+
+#NXT
+69.135.41.170 # Marisa Streb
