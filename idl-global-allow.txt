@@ -570,3 +570,6 @@ Allow from 2a06:98c0::/29
 
 #NXT
 69.135.41.170 # Marisa Streb
+
+#BFA
+75.64.70.234 # Glen
