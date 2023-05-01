@@ -505,8 +505,7 @@ Allow from 2a06:98c0::/29
 50.21.164.30 #   Manually Allow Lymphoma
 174.197.3.199 #  Manually Allow IndigoCRS
 184.5.200.95 #   Manually JuliaCook
-174.203.6.114 #  Manually Westgard
-69.129.195.63 #  Manually Westgard
+73.142.72.67 #  Manually Westgard
 82.69.0.0/16 # Manually allow lescltd.com whm 2087 access 82.69.19.51 , 82.69.16.171
 75.101.130.189 # Popular Books
 34.197.18.122 # Popular Books
