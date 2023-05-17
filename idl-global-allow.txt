@@ -544,6 +544,8 @@ Allow from 2a06:98c0::/29
 108.208.73.54 # Sam/NXT - Fri Nov 11 15:05:10 2022
 73.36.24.47 # Christ  - Mon Jan  2 08:38:49 2023
 98.242.117.81 # Newsome Whitelist Office IP
+72.215.47.165 # Newsome Whitelist IP
+71.204.4.61 # Newsome Whitelist IP
 169.55.128.57 #random cloudflare IP for hypertension
 #23.111.175.214 # Cloudlinux Support IP
 #2604:4500:6:203f::6 # Cloudlinux Support IP
